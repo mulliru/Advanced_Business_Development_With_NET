@@ -1,0 +1,15 @@
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\bin\Debug\net8.0\InciandoComCsharp.exe
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\bin\Debug\net8.0\InciandoComCsharp.deps.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\bin\Debug\net8.0\InciandoComCsharp.runtimeconfig.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\bin\Debug\net8.0\InciandoComCsharp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\bin\Debug\net8.0\InciandoComCsharp.pdb
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.AssemblyInfo.cs
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.sourcelink.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\refint\InciandoComCsharp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.pdb
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\InciandoComCsharp.genruntimeconfig.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_01\InciandoComCsharp\InciandoComCsharp\obj\Debug\net8.0\ref\InciandoComCsharp.dll
