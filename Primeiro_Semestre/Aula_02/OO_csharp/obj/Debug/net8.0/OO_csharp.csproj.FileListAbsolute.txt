@@ -1,0 +1,5 @@
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_02\OO_csharp\obj\Debug\net8.0\OO_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_02\OO_csharp\obj\Debug\net8.0\OO_csharp.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_02\OO_csharp\obj\Debug\net8.0\OO_csharp.AssemblyInfo.cs
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_02\OO_csharp\obj\Debug\net8.0\OO_csharp.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_02\OO_csharp\obj\Debug\net8.0\OO_csharp.sourcelink.json

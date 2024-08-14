@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InciandoComCsharp", "InciandoComCsharp\InciandoComCsharp.csproj", "{EF08BAB7-7FB5-43F3-B059-33B757E692DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OO_csharp", "..\OO_csharp\OO_csharp.csproj", "{19159883-EBD5-4C1C-A998-BA6FCFE1697F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF08BAB7-7FB5-43F3-B059-33B757E692DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF08BAB7-7FB5-43F3-B059-33B757E692DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF08BAB7-7FB5-43F3-B059-33B757E692DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF08BAB7-7FB5-43F3-B059-33B757E692DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19159883-EBD5-4C1C-A998-BA6FCFE1697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19159883-EBD5-4C1C-A998-BA6FCFE1697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19159883-EBD5-4C1C-A998-BA6FCFE1697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19159883-EBD5-4C1C-A998-BA6FCFE1697F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
