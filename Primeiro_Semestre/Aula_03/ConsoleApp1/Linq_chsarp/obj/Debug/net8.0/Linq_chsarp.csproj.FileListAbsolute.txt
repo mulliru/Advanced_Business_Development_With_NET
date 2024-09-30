@@ -1,0 +1,15 @@
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\bin\Debug\net8.0\Linq_chsarp.exe
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\bin\Debug\net8.0\Linq_chsarp.deps.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\bin\Debug\net8.0\Linq_chsarp.runtimeconfig.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\bin\Debug\net8.0\Linq_chsarp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\bin\Debug\net8.0\Linq_chsarp.pdb
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.AssemblyInfo.cs
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.sourcelink.json
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\refint\Linq_chsarp.dll
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.pdb
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\Linq_chsarp.genruntimeconfig.cache
+C:\Users\muril\Desktop\FIAP\Segundo_Ano\Advanced_Business_Development_With_NET\Primeiro_Semestre\Aula_03\ConsoleApp1\Linq_chsarp\obj\Debug\net8.0\ref\Linq_chsarp.dll
